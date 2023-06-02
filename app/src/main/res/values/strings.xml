@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Three Button Intent</string>
+    <string name="text_one_button">Text One</string>
+    <string name="text_two_button">Text Two</string>
+    <string name="text_three_button">Text Three</string>
+    <string name="text_one_title">Giacomo Leopardi (1798–1837) – Boredom</string>
+    <string name="text_one">Boredom is in some ways the most sublime human feeling. … Not being able to be satisfied with any earthly thing or, so to speak, with the whole earth;
+        \n\n
+        Considering the immeasurable extent of space, the number and the wonderful size of the worlds, and finding that everything is small and petty in comparison with the capacity of one’s own mind;
+        \n\n
+        Picturing to oneself the infinite number of worlds, and the infinite universe, and feeling that the soul and our desire must be still greater than such a universe; always accusing things of insufficiency and nothingness;
+        \n\n
+        And suffering huge lack and emptiness, and therefore boredom – all this seems to me the greatest sign of grandeur and nobility, which there is in human nature. And so, boredom is seldom seen in persons of no account, and very seldom or never in other creatures.
+        \n\n
+        Boredom is in some ways the most sublime human feeling. … Not being able to be satisfied with any earthly thing or, so to speak, with the whole earth;
+        \n\n
+        Considering the immeasurable extent of space, the number and the wonderful size of the worlds, and finding that everything is small and petty in comparison with the capacity of one’s own mind;
+        \n\n
+        Picturing to oneself the infinite number of worlds, and the infinite universe, and feeling that the soul and our desire must be still greater than such a universe; always accusing things of insufficiency and nothingness;
+        \n\n
+        And suffering huge lack and emptiness, and therefore boredom – all this seems to me the greatest sign of grandeur and nobility, which there is in human nature. And so, boredom is seldom seen in persons of no account, and very seldom or never in other creatures.</string>
+    <string name="text_two_title">Gabriel Marcel (1889–1973) – Myself as a gift</string>
+    <string name="text_two">Maybe there is no more fatal error than that which conceives of the ego as the secret home of originality.
+        \n\n
+        … The best part of my personality does not belong to me. I am in no sense the owner, only the trustee.
+        \n\n
+        … If I consider myself as the guardians of my gifts, responsible for their fruitfulness – that is to say, if I recognize in them a call, or perhaps a question to which I must respond – it will not occur to me to be proud about them, and to parade them before an audience, which (as I said before) really means before myself.
+        \n\n
+        Indeed, if we think about it, there is nothing in me that cannot or should not be regarded as a gift. It is pure fiction to imagine a pre-existent self to whom those gifts were given thanks to certain rights that I have, or as a reward for my previous merits.
+        \n\n
+        Maybe there is no more fatal error than that which conceives of the ego as the secret home of originality.
+        \n\n
+        … The best part of my personality does not belong to me. I am in no sense the owner, only the trustee.
+        \n\n
+        … If I consider myself as the guardians of my gifts, responsible for their fruitfulness – that is to say, if I recognize in them a call, or perhaps a question to which I must respond – it will not occur to me to be proud about them, and to parade them before an audience, which (as I said before) really means before myself.
+        \n\n
+        Indeed, if we think about it, there is nothing in me that cannot or should not be regarded as a gift. It is pure fiction to imagine a pre-existent self to whom those gifts were given thanks to certain rights that I have, or as a reward for my previous merits.</string>
+    <string name="text_three_title">Johann Gottfried Herder (1744–1803) – Between two worlds</string>
+    <string name="text_three">The curious inconsistency of the human condition becomes clear: As an animal, the human being tends to the earth, and is attached to it as his dwelling place.
+        \n\n
+        As a human being, he has within him the seeds of immortality, which require to be planted in another soil.
+        \n\n
+        As an animal, he can satisfy his wants, and people who are content with this feel themselves sufficiently happy here below; but those who seek a nobler purpose find everything around them imperfect and incomplete.
+        \n\n
+        What is most noble is never accomplished upon the earth, what is most pure is rarely stable and long-lasting. This arena is only a place of exercise and trial for the powers of our hearts and minds.
+        \n\n
+        The history of the human species – including what it has attempted and what has happened to it, the efforts it has made and the revolutions it has undergone – proves this sufficiently.
+        \n\n
+        The curious inconsistency of the human condition becomes clear: As an animal, the human being tends to the earth, and is attached to it as his dwelling place.
+        \n\n
+        As a human being, he has within him the seeds of immortality, which require to be planted in another soil.
+        \n\n
+        As an animal, he can satisfy his wants, and people who are content with this feel themselves sufficiently happy here below; but those who seek a nobler purpose find everything around them imperfect and incomplete.
+        \n\n
+        What is most noble is never accomplished upon the earth, what is most pure is rarely stable and long-lasting. This arena is only a place of exercise and trial for the powers of our hearts and minds.
+        \n\n
+        The history of the human species – including what it has attempted and what has happened to it, the efforts it has made and the revolutions it has undergone – proves this sufficiently.</string>
+    <string name="activity2_name">Text Activity</string>
+</resources>
