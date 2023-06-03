@@ -34,7 +34,10 @@ Users should be able to:
 
 ### What I learned
 
-
+How to create a new Activity in Android Studio.
+How to define parent and child activities for Up navigation.
+How to start an Activity with an explicit Intent.
+How to pass data between each Activity with an explicit Intent.
 
 ### Continued development
 
